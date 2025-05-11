@@ -1,4 +1,4 @@
-# requirement-analysis
+
 # Requirement Analysis in Software Development
 
 This repository covers the key concepts, practices, and examples related to **Requirement Analysis** in the Software Development Life Cycle (SDLC). It is intended to help learners and professionals understand the significance of analyzing software requirements before development begins.
@@ -60,7 +60,7 @@ These define system performance, usability, reliability, etc.
 - Helps stakeholders visualize system behavior
 - Facilitates better planning and design
 
-![Use Case Diagram for Booking System]![Uploading (alx-booking-uc.png).png…]()
+![Use Case Diagram for Booking System](alx-booking-uc.png)
 
 
 ---
